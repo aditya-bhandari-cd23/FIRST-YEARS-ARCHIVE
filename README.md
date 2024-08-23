@@ -65,3 +65,5 @@ Extra resources:
 
 
 If you wish to contact me, reach me through discord (@aditya_bhandari) or instagram (@adityabhandari781)
+
+P.S. make sure to star this repo. Thanks :)
