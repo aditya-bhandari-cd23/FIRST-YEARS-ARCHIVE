@@ -1,0 +1,7 @@
+python - easiest plc, pick if you are a beginner at programming
+
+c++ - not easy, but worth picking only if you are in cs stream, as it would make the "programming in C" course easier (it comes in 2nd sem)
+
+java - not particularly easy if you are new to programming
+
+web - somewhat easy

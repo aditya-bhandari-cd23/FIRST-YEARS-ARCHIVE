@@ -1,0 +1,9 @@
+civil - mostly memorization, considered to be the easiest esc by most
+
+mechanical  - also a lot of memorization
+
+electrical - mostly formulae and derivations, only little to memorize
+
+electronics - can be easy or hard depending on your teacher (usually hard), formula-based
+
+c prog - pretty hard if you are new to programming
