@@ -4,7 +4,7 @@ This repository contains RVCE's first year notes and question papers for the 202
 
 - 1st semester (chemistry cycle):
 	- Fundamentals of Linear Algebra, Calculus & Statistics (MAT211CT)
-	- Chemistry of Engineering Materials (CHY221CI)
+	- Chemistry of Smart Materials and Devices (CHY221CI)
 	- Computer Aided Engineering Graphics (ME112GL/ME122GL)
 	- Engineering Science Course - I
 	- Programming Language Course:
@@ -66,4 +66,4 @@ Extra resources:
 
 If you wish to contact me, reach me through discord (@aditya_bhandari) or instagram (@adityabhandari781)
 
-P.S. make sure to star this repo. Thanks :)
+P.S. if you found this repo useful, pls make sure to star it. Thanks :)
