@@ -1,6 +1,6 @@
 civil - mostly memorization, considered to be the easiest esc by most
 
-mechanical  - also a lot of memorization
+mechanical  - also memorization, contains lot of diagrams
 
 electrical - mostly formulae and derivations, only little to memorize
 

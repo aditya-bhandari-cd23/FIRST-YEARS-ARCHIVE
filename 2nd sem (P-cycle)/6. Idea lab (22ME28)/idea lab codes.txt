@@ -606,4 +606,4 @@ void loop()
 
 
 
-Hey do you like Pokemon? I'm developing a pokemon fangame, so if you wish to know more and get updates on the game, please join the discord server: https://discord.gg/gb68ckrRxx
+Hey do you like Pokemon? I'm developing a pokemon fangame, so if you wish to know more about my project, please join the discord server: https://discord.gg/gb68ckrRxx
