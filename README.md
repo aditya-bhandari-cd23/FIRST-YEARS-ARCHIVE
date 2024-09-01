@@ -1,5 +1,3 @@
-# FIRST YEARS ARCHIVE
-
 This repository contains RVCE's first year notes and question papers for the 2022 scheme. Please note that the maths, physics, chemistry and PCC courses are mainly for the CS-stream branches. But apart from these, the rest of the courses are common for all streams. If you are new to Github and aren't sure how to use it, simply click on the green "Code" button and click "Download ZIP". This should download the ~1GB folder into your computer. Here are its contents:
 
 - 1st semester (chemistry cycle):
