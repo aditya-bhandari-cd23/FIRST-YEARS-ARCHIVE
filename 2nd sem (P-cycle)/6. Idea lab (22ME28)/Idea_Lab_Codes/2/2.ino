@@ -9,22 +9,22 @@ void setup() {
   Serial.begin(9600);
   dht.begin();
   lcd.init();
-  lcd.background();
+  lcd.backlight();
 }
 
 void loop() {
-  float humi=dht.readHumidity(0);
-  float tempC=dht.readTemerature();
+  float humi=dht.readHumidity();
+  float tempC=dht.readTemperature();
   Serial.print("humidity: ");
-  Serial.Print(humi);
-  Serial.Print("%");
-  Serial.Print("    |    ");
-  Serial.Print("temperature");
-  Serial.Print(tempC);
+  Serial.print(humi);
+  Serial.print("%");
+  Serial.print("    |    ");
+  Serial.print("temperature");
+  Serial.print(tempC);
   Serial.print("    .C  ");
 
   lcd.clear();
-  lcd.serCursor(0,0);
+  lcd.setCursor(0,0);
   lcd.print("humidity: ")
   lcd.print(humi);
   lcd.print("%");
