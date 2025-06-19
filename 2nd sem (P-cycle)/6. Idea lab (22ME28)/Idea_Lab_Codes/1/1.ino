@@ -1,6 +1,6 @@
 int trigPin=9;
-int echoPin=9;
-int led_Pin=9;
+int echoPin=8;
+int led_Pin=3;
 int distance_threshold=40;
 float duration_us,distance_cm;
 
